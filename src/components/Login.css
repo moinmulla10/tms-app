@@ -1,0 +1,69 @@
+.banner-bg {
+  background-size: cover;
+  background-image: url('../assets/download.jpg');
+  height: 280px;
+}
+.banner-bg-card {
+  height: 0;
+  background-size: cover;
+  padding-top: 30%;
+}
+.login-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  top: -150px;
+}
+.login-box {
+  height: 500px;
+  width: 400px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.24) !important;
+  margin-top: 10%;
+}
+.logo-img {
+  height: 100px;
+  margin-top: 24px;
+  margin-bottom: 80px;
+}
+.logo-center {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  color: #428fd6;
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+.tagline {
+  color: #9eacb9;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: center;
+  margin-bottom: 48px;
+}
+.btn-center {
+  display: flex;
+  justify-content: center;
+}
+.google-btn {
+  height: 60px;
+  /* width: 280px; */
+  border-radius: 30px !important;
+  background-color: #ffffff !important;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.24) !important;
+  padding: 0px 18px !important;
+  font-size: 18px !important;
+}
+.card-action-area {
+  height: 300px;
+  font-size: 3rem;
+}
