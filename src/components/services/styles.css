@@ -1,0 +1,30 @@
+.card-media{
+    height: 80px;
+    width: 90px;
+   margin-left: 35%;
+   margin-top: 10%;
+}
+
+.card{
+  height: 200px;
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.24) !important;
+}
+
+.banner-bg {
+    background-size: cover;
+    background-image: url('../../assets/download.jpg');
+    height: 280px;
+}
+
+.service-headline{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.service-name{
+    display: flex;
+    justify-content: center;
+}
